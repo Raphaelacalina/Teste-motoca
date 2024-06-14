@@ -1,0 +1,8 @@
+.header {
+    height: 60px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 18px;
+    align-items:baseline;
+    padding:28px 41px;
+}

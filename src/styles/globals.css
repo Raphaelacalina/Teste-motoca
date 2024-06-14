@@ -1,0 +1,14 @@
+body {
+  background-color: #2a233c;
+  color: #fff;
+}
+button {
+  background-color: #3badfb;
+  color: #fff;
+  border: none;
+  align-items:baseline;
+
+}
+button > span{
+  font-size: 18px;
+}
